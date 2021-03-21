@@ -1,0 +1,17 @@
+<html>    
+<head>    
+    <meta charset="utf-8">    
+    <title>www.Shakir.com</title>    
+</head>    
+ 
+<body background="C:\Users\L440\Desktop\html\Background.jpg" >
+      
+    <h1 align="center">    
+        <font color="#F0B27A" size="9" >    
+            WELCOME TO WEB PAGE V 1.0 <br/>    
+    </font>    
+    SIMPLE WEB PAGE     
+    </h1>    
+   
+</body>    
+</html>    
